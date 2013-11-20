@@ -59,7 +59,7 @@ namespace Informatica.DataBase {
         public void ModificarEstado(string hash, string name, int estado) {
             EstadoUsuario ea = numeroDb.EstadoUsuarios.FirstOrDefault(p => p.hash_user == hash && p.name == name);
             if (ea != null) {
-                ea.status = 1;
+                ea.status = estado;
             } else {
                 ea = new EstadoUsuario() {
                     hash_user = hash,
@@ -86,6 +86,7 @@ namespace Informatica.DataBase {
         public void LimpiarListaUsuario(string hash, string name) { 
             List<Numero> numeros= numeroDb.Numeros.Where(p => p.hash_user == hash && p.name == name).ToList();
             numeroDb.Numeros.DeleteAllOnSubmit(numeros);
+            numeroDb.SubmitChanges();
         }
 
         #region IDisposable Members

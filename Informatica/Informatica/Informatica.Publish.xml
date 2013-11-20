@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <publishData>
   <publishProfile publishUrl="C:\Informacion\Publish\InformativaWS" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="informatica501" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAueVESrNm2kmYpt5qWrlI9AAAAAACAAAAAAAQZgAAAAEAACAAAAAoBHS+zYqlK+B+svRSUeJl7geC/2OpR27/hiJBBR7fNQAAAAAOgAAAAAIAACAAAAAxTF2XVmEdTe9jcKvFt1yJS4OSOmXYiZU+yUlYafvbgyAAAADDNUyiNnkgaJf2fjucGQMjybNi9iyc0b2VHX9odPbf8kAAAACrzhp8AJMJLP9dnYGC75TXV/3FgGBO8orC4sGpxBtpFluIltPdg1FYpg0cOpKGpKU9HE2lPQQJun5Zdor3UJ1e" SelectedForPublish="True">
-    <file relUrl="bin/Informatica.pdb" publishTime="11/18/2013 23:11:27" />
+    <file relUrl="bin/Informatica.pdb" publishTime="11/19/2013 23:42:45" />
     <file relUrl="Service1.asmx" publishTime="11/18/2013 21:44:30" />
     <file relUrl="Web.config" publishTime="11/18/2013 23:11:34" />
-    <file relUrl="bin/Informatica.dll" publishTime="11/18/2013 23:11:27" />
+    <file relUrl="bin/Informatica.dll" publishTime="11/19/2013 23:42:45" />
   </publishProfile>
 </publishData>

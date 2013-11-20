@@ -2,3 +2,7 @@ c:\users\usuario\documents\visual studio 2010\Projects\Informatica\Informatica\b
 c:\users\usuario\documents\visual studio 2010\Projects\Informatica\Informatica\bin\Informatica.pdb
 c:\users\usuario\documents\visual studio 2010\Projects\Informatica\Informatica\obj\Debug\Informatica.dll
 c:\users\usuario\documents\visual studio 2010\Projects\Informatica\Informatica\obj\Debug\Informatica.pdb
+C:\Users\USUARIO\Documents\GitHub\InformaticaWebServices\Informatica\Informatica\bin\Informatica.dll
+C:\Users\USUARIO\Documents\GitHub\InformaticaWebServices\Informatica\Informatica\bin\Informatica.pdb
+C:\Users\USUARIO\Documents\GitHub\InformaticaWebServices\Informatica\Informatica\obj\Debug\Informatica.dll
+C:\Users\USUARIO\Documents\GitHub\InformaticaWebServices\Informatica\Informatica\obj\Debug\Informatica.pdb
